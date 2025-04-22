@@ -41,20 +41,19 @@ This project follows the Model–View–Controller (MVC) architecture and is bui
 - View → Handles all user interaction and input/output.
 - Controller → Coordinates between model and view, handles flow.
 
-Build Instructions
-
-# git clone https://github.com/Aakriti-2334/movie-rating-system
-# cd MovieRatingSystem
-# mkdir -p build
-# cd build
-# cmake ..
-# make
-# ./MovieRatingSystem
+### Build Instructions
+    git clone https://github.com/amith1315/Movie-Review-System
+    cd MovieRatingSystem
+    mkdir -p build
+    cd build
+    cmake ..
+    make
+    ./MovieRatingSystem
 
 OR
 
-# g++ -std=c++17 -Iinclude src/main.cpp src/controller/Controller.cpp src/model/Model.cpp src/view/View.cpp -lsqlite3 -o MovieRatingSystem
-# ./MovieRatingSystem
+    g++ -std=c++17 -Iinclude src/main.cpp src/controller/Controller.cpp src/model/Model.cpp src/view/View.cpp -lsqlite3 -o MovieRatingSystem
+    ./MovieRatingSystem
 
 Sample Usage
 
