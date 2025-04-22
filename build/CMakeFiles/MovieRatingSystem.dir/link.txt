@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MovieRatingSystem.dir/src/controller/Controller.cpp.o CMakeFiles/MovieRatingSystem.dir/src/main.cpp.o CMakeFiles/MovieRatingSystem.dir/src/model/Model.cpp.o CMakeFiles/MovieRatingSystem.dir/src/view/View.cpp.o  -o MovieRatingSystem  /usr/lib/x86_64-linux-gnu/libsqlite3.so 

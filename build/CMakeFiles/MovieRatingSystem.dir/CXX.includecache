@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/model/Model.h
+sqlite3.h
+-
+string
+-
+vector
+-
+
+../src/view/View.h
+Model.h
+../src/view/Model.h
+string
+-
+vector
+-
+
+/home/seed/Desktop/ooad/MovieRatingSystem/src/controller/Controller.cpp
+Controller.h
+/home/seed/Desktop/ooad/MovieRatingSystem/src/controller/Controller.h
+Model.h
+/home/seed/Desktop/ooad/MovieRatingSystem/src/controller/Model.h
+View.h
+/home/seed/Desktop/ooad/MovieRatingSystem/src/controller/View.h
+
+/home/seed/Desktop/ooad/MovieRatingSystem/src/controller/Controller.h
+

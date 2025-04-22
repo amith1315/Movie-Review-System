@@ -1,0 +1,3 @@
+/home/seed/Desktop/ooad/MovieRatingSystem/build/CMakeFiles/rebuild_cache.dir
+/home/seed/Desktop/ooad/MovieRatingSystem/build/CMakeFiles/edit_cache.dir
+/home/seed/Desktop/ooad/MovieRatingSystem/build/CMakeFiles/MovieRatingSystem.dir
